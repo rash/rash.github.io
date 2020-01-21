@@ -36,12 +36,8 @@ a.email {
   background-color: black;
 }
 
-.link {
-  text-decoration: none;
-}
-
-.link lee {
-  color: #da261a;
+a.github {
+  color: #F4CBB2;
 }
 
 body {
