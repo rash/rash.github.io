@@ -1,46 +1,8 @@
-.center {
-  position: absolute;
-  top: 50%;
-  right: 50%;
-  transform: translate(50%, -50%);
-}
-
-.text {
-  text-shadow: 1px 1px 2px black;
-  font-family: monospace;
-  font-size: 13px;
-  color: white;
-  text-align: center;
-  white-space: nowrap;
-}
-
-.text .greeting  {
-  font-family: "Helvetica", "Arial";
-  font-size: 30px;
-}
-
-a {
-  text-decoration: none;
-}
-
-a.lee {
-  color: #da261a;
-}
-
-a.twitter {
-  color: #1da1f2;
-}
-
-a.email {
-  color: white;
-  background-color: black;
-}
-
-a.github {
-  color: #F4CBB2;
-}
-
 body {
-  background-color: #272726;
-  overflow: hidden;
+    background-color: #121212;
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
 }
